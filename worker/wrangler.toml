@@ -1,0 +1,7 @@
+name = "loreal-routine-project-9"
+main = "src/index.js"
+compatibility_date = "2025-12-01"
+[vars]
+ALLOWED_ORIGINS = "https://rich5369.github.io"
+OPENAI_MODEL = "gpt-4.1"
+RATE_LIMIT_PER_MINUTE = "30"
